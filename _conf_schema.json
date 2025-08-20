@@ -1,0 +1,21 @@
+{
+  "API_keys": {
+    "description": "各种应用接口秘钥,更细致的配置请修改toml配置文件",
+    "type": "object",
+    "hint": "您的api_key,重启后生效",
+    "items": {
+      "LLM": {
+        "description": "硅基流动api_key",
+        "type": "string",
+        "hint": "包含Bearer及后面的部分",
+        "default": ""
+      },
+      "SEA": {
+        "description": "Tavily api_key",
+        "type": "string",
+        "hint": "建议使用tavily,亦可使用百度,参考配置文件",
+        "default": ""
+      }
+    }
+  }
+}
