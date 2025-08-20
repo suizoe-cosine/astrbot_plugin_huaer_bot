@@ -10,7 +10,7 @@
 
 _✨基于SiliconFlow、Tavily API，HippoRAG的智能对话插件✨_
 
-<a href="https://nonebot.dev/">
+<a href="https://docs.astrbot.app/">
 <img src="https://img.shields.io/badge/AstrBot-3.4.15+-red.svg" alt="nonebot">
 </a>
 <a href="https://python.org/">

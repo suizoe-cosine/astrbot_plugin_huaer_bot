@@ -61,7 +61,7 @@ class Documentation:
         ####################
         欢迎使用Huaer bot! (v{Information.full_version()})
         
-        这是一个基于nonebot+napcat+deepseek的聊天机器人。
+        这是一个基于astrbot+napcat+deepseek的聊天机器人。
 
         当前组群：
         {self.chat_config.name}
