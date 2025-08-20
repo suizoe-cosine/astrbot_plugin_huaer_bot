@@ -384,8 +384,7 @@ class HuaErBot(Star):
 #                  © 2025 Huaer DevGroup. 
 # ---------------------------------------------------
 # 开源协议 / License: MIT
-# 代码仓库 / Repository: github.com/inkink365/nonebot-plugin-huaer-bot
-# 技术文档 / Documentation: github.com/inkink365/nonebot-plugin-huaer-bot/wiki
+# 代码仓库 / Repository: github.com/suizoe-cosine/astrbot_plugin_huaer_bot
 # ---------------------------------------------------
 # 联系方式 / Contact:
 #   - 电子邮件 / Email: HuaEr_DevGroup@outlook.com
