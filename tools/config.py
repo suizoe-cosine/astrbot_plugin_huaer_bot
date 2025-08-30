@@ -65,7 +65,7 @@ CONFIG_DIR = BASE_DIR / "config.toml"
 # 版本信息
 MAJOR_VERSION = 2
 MINOR_VERSION = 2
-PATCH_VERSION = 2
+PATCH_VERSION = 3
 VERSION_SUFFIX = "stable"
 
 # 导入配置文件

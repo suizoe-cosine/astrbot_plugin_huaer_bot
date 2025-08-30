@@ -1,5 +1,5 @@
 name: "HuaEr聊天bot"
 author: "HuaEr DevGroup"
 desc: "基于SiliconFlow API的多组群聊天插件，支持人格设定、markdown显示、联网搜索、检索增强生成（RAG）等功能"
-version: "2.2.2"
+version: "2.2.3"
 repo: "https://github.com/suizoe-cosine/astrbot-plugin-huaer-bot"
